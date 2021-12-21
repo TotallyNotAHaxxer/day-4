@@ -10,5 +10,5 @@ i don tthink i need to explain anymore XD
 Installs : 
 
 
-git clone https://github.com/ArkAngeL43/day-4.git ; cd day-4 ; sudo gem install whois whois-parser ; sudo gem install httparty ; sudo gem install open-uri ; sudo gem install openssl ; sudo gem install net-dns ; sudo gem install net-http
+git clone https://github.com/ArkAngeL43/day-4.git ; cd day-4 ; sudo gem install whois whois-parser ; sudo gem install httparty ; sudo gem install open-uri ; sudo gem install openssl ; sudo gem install net-dns ; sudo gem install net-http ; ruby main.rb
 ```
