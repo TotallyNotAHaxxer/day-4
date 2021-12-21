@@ -2,23 +2,13 @@
 # small projects for day 4 in ruby 
 require 'socket'
 require 'open-uri'
-require 'net/http'
 require 'whois'
 require 'whois-parser'
-require 'net/ssh'
 require 'httparty'
 require 'uri'
 require 'openssl'
 require 'net/dns'
-require 'socket'
 require 'net/http'
-require 'colorize'
-require 'tty-spinner'
-require 'optparse'
-require 'httparty'
-require 'timeout'
-require 'uri'
-
 
 
 
